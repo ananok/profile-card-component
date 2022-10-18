@@ -41,7 +41,7 @@ body{
 
 .person-div {
   position: absolute;
-  background-image: url(/assets/image-victor.jpg);
+  background-image: url(./assets/image-victor.jpg);
   width: 96px;
   margin-top:79px;
   height: 96px;
